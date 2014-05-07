@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+td, th {
+  border-left: solid 1px black;
+  padding:10px;
+}
+</style>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta name="viewport" content="width=device-width" />
+
+	<title>MCERA Home</title>
+	<!-- Start css3menu.com HEAD section -->
+	<link rel="stylesheet" href="index_files/css3menu0/style.css" type="text/css" /><style type="text/css">._css3m{display:none}</style>
+	<!-- End css3menu.com HEAD section -->
+</head>
+<body>
+	<div id="page">
+		<!-- Start css3menu.com BODY section -->
+<ul id="css3menu0" class="topmenu">
+	<li class="topfirst"><a href="#" style="height:18px;line-height:18px;">Item 0</a></li>
+	<li class="topmenu"><a href="#" style="height:18px;line-height:18px;"><span>Item 1</span></a>
+	<ul>
+		<li><a href="#">Item 1 0</a></li>
+		<li><a href="#">Item 1 1</a></li>
+		<li><a href="#">Item 1 2</a></li>
+	</ul></li>
+	<li class="toplast"><a href="#" style="height:18px;line-height:18px;">Item 2</a></li>
+</ul><p class="_css3m"><a href="http://css3menu.com/">vertical menu css</a> by Css3Menu.com</p>
+<!-- End css3menu.com BODY section -->
+<div class='foliage'></div>
+		<div id="header">
+			<div class="container">
+				<div id="logo">
+					<a href="index.html"><img src="images/logo.png" alt="HTML tutorial"></a>
+				</div>
+<!---------------------------THIS IS THE SEARCH BOX ON THE WEBSITE -------------------------------------------------
+				<div class="header_search">
+						<div class='label'>Search this website</div>
+				</div>
+-----------------------------------------------------------------------------------------------------------------!-->				
+<!--
+				<div id="main-menu">
+				<ul>
+					<li><a href="index.html">Retirement Planning</a></li>
+				</ul>
+				<div>
+
+--!-->		
+				<div class="navigation">
+					<ul>
+						<li ><a href="index.html">RETIREMENT PLANNING</a>
+							<ul>
+								<li><a>Planning For Your Future</a></li>
+							</ul>
+						</li>
+						<li>
+							<a>RESOURCE CENTER</a>
+							<ul>
+								<li><a>Tool</a></li>
+								<li><a>Forms</a></li>
+								<li><a>Information</a></li>							
+							</ul>
+						</li>
+						<li>
+							<a>ADMINISTRATION</a>
+							<ul>
+								<li><a>Retirement Board & Staff</a></li>		
+							</ul>
+						</li>
+						<li><a>AFTER YOU RETIRE</a>		
+							<ul>
+								<li><a>PAYMENTS</a></li>
+								<li><a>DEDUCTIONS</a></li>
+								<li><a>BENEFITS</a></li>
+							</ul>
+						</li>
+						<li><a>FINANCIALS</a>
+							<ul>
+								<li><a>REPORTS</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+
+		<div class="clear"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<div id='slider' class="lzblock" data-block="slider">
+					<div class='slides'>
+						<a href="index.html"><img src="images/demo/slide1.jpg" alt="HTML tutorial"></a>				
+					</div>
+					<div class='slider-previews'></div>
+					<div class='slider-arrows'>
+						<div class='slide-left' title="Previous slide"></div>
+						<div class='slide-right' title="Next slide"></div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div id="content-body" class="container">
+		<div class="post">
+			<div class="post-title">
+				<h1></h1>
+			</div>
+	
+			<table style="width:100%" style="padding-bottom:100px" align="center">
+				<tr>
+					<td>
+						<b>Upcoming Meetings</b> 
+					</td>
+					<td>
+						<b>Retirement Calculator</b>
+					</td>
+					<td>
+						<b>Important Information and News</b>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a>View 2014 Meeting Calendar </a>
+
+					</td>
+					<td>
+						<a>Symbol for calculator here</a>
+					</td>
+					<td>
+						<a>Office Hours</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<b>Meeting Minutes</b>
+					
+					</td>
+					<td>
+						<b>Retirement Worksheet</b>
+					</td>
+					<td>
+						<a>Recent legislation regarding AB340 and AB197</a>
+					</td>
+				</tr>
+				<tr>	
+					<td>
+						<a>View minutes of past meetings</a>
+					
+					</td>
+					<td>
+						<a>Estimating your retirement allowance</a>
+					</td>
+					<td>
+						<a>2014 COLA</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<b>Meeting Agendas</b>
+					
+					</td>
+					<td>
+						<b>Frequently Asked Questions</b>
+					</td>
+					<td>
+						
+					</td>
+				</tr>
+				<tr>
+					<td>
+					<a>View agendas for current and past meetings</a>
+					</td>
+					<td>
+					<a>General</a>
+					</td>
+					<td>
+					</td>					
+				</tr>
+				<tr>
+					<td>
+					</td>
+					<td>
+					<a>Reciprocity</a>
+					</td>
+					<td>
+					</td>					
+				</tr>				
+				<tr>
+					<td>
+					</td>
+					<td>
+					<a>Termination before retirement</a>
+					</td>
+					<td>
+					</td>					
+				</tr>
+				<tr>
+					<td>
+					</td>
+					<td>
+					<a>Disability</a>
+					</td>
+					<td>
+					</td>					
+				</tr>
+				<tr>
+					<td>
+					</td>
+					<td>
+					<a>Service retirement</a>
+					</td>
+					<td>
+					</td>					
+				</tr>				
+			</table>
+		</div>
+		<!--------------------------------------------------------------------!-->
+		<div class="post">
+			<div class="post-title">
+				<h1>Meetings</h1>
+			</div>
+			<h2>Upcoming Meetings</h2>
+			<a>View 2014 Meeting Calendar</a>
+			<h2>Meeting Minutes</h2>
+			<a>View minutes of past meetings</a>
+			<h2>Meeting Agendas</h2>
+			<a>View agendas for current and past meetings</a>
+		</div>
+		<div class="post">
+			<div class="post-title">
+				<h1>Retirement</h1>
+			</div>
+			<h2>Retirement Calculator</h2>
+			<a>Symbol for calculator here</a>
+			<h2>Retirement Worksheet</h2>
+			<a>Estimating your retirement allowance</a>
+			<h2>Frequently Asked Questions</h2>
+			<a>General</a>
+			<a>Reciprocity</a>
+			<a>Termination before retirement</a>
+			<a>Disability</a>
+			<a>Service retirement</a>
+			<a></a>
+		</div>
+		
+		<div class="post">
+			<div class="post-title">
+				<h1>Important Information and News</h1>
+			</div>
+			<h2></h2>
+			<a>Office Hours</a>
+			<h2></h2>
+			<a>Recent legislation regarding AB340 and AB197</a>
+			<h2></h2>
+			<a>2014 COLA</a>
+		</div>
+	</div>
+<div id="footer">
+	<div class="container">
+	</div>
+</div>
+</body>
+</html>
